@@ -28,7 +28,7 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s │ %(message)s")
 log = logging.getLogger("weathermind")
 
 # ── AccuWeather config ────────────────────────────────────────────────────────
-AW_KEY  = os.getenv("ACCUWEATHER_API_KEY", "zpka_b64fa4a87c7141dd87f5a0bf2ebaa5af_61f6def2")
+AW_KEY  = os.getenv("ACCUWEATHER_API_KEY", "")
 AW_BASE = "https://dataservice.accuweather.com"
 
 # ── Open-Meteo endpoints (no key needed) ─────────────────────────────────────
