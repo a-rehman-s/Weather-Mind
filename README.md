@@ -2,8 +2,6 @@
 
 WeatherMind is an intelligent weather forecasting dashboard that combines machine learning with real-time data to deliver accurate and interactive forecasts across multiple cities.
 
-The platform is designed to simulate ML-based predictions using mock data, with a scalable architecture ready for real-world API integration and advanced forecasting models.
-
 ---
 
 ## 🚀 Features
@@ -38,9 +36,7 @@ The platform is designed to simulate ML-based predictions using mock data, with 
 
 **Lag features:**
 - Previous temperatures  
-- Temperature trends  
-
-> ⚠️ Currently runs on **mock data simulation**, structured to easily switch to real-world APIs (e.g., AccuWeather)
+- Temperature trends
 
 ---
 
